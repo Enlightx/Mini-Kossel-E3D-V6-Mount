@@ -1,0 +1,9 @@
+This is an edited version of the original effector from the Kossel github.
+
+Changes made are
+
+* Entrance hole had been enlarged and thread removed for e3d v6 bowden clip
+* Hotend hole increased to fit e3D v6 style width
+
+Kossel github can be found at 
+https://github.com/jcrocholl/kossel
